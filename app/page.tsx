@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <h1>Next JS - File Based Routing</h1>
+      <h1>Home Page</h1>
     </div>
   );
 };
